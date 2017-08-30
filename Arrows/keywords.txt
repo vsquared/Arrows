@@ -1,0 +1,12 @@
+Arrows	KEYWORD1
+initArrows	KEYWORD2
+drawArrows	KEYWORD2
+upArrowContains	KEYWORD2
+downArrowContains	KEYWORD2
+upArrowHandler	KEYWORD2
+downArrowHandler	KEYWORD2
+showArrowValue	KEYWORD2
+value	KEYWORD2
+min	KEYWORD2
+max	KEYWORD2
+step	KEYWORD2
